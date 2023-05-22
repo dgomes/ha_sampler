@@ -1,0 +1,23 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "description": "New Sampler Sensor",
+        "data": {
+          "entity_id": "Input sensor",
+          "name": "Name",
+          "period": "Period"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "data": {
+          "period": "Period"
+        }
+      }
+    }
+  }
+}

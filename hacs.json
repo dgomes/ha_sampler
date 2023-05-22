@@ -1,0 +1,5 @@
+{
+  "name": "Sensor Sampler",
+  "homeassistant": "2023.5.0",
+  "render_readme": true
+}
