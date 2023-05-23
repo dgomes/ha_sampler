@@ -13,4 +13,4 @@ Then select which `sesnor` will you be sampling and the perior (small periods wi
 
 # Help
 
-Join me at [CPHA Discord](https://discord.gg/Mh9mTEA)
+Join me at [HA Discord](https://discord.gg/home-assistant)
